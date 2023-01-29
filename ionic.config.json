@@ -1,0 +1,7 @@
+{
+  "name": "Helpet-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
